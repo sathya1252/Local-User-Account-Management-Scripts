@@ -25,7 +25,7 @@ Clone the repository:
 
     git clone https://github.com/sathya1252/Local-User-Account-Management-Scripts.git
 
-    cd network-scanner
+    cd Local-User-Account-Management-Scripts
 
 
 Usage:
